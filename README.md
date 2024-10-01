@@ -1,6 +1,6 @@
 # **Big Ben Bot** (as seen on tiktok @aaronr5)
 
-# **About**
+From [aaronr5tv](https://github.com/aaronr5tv/BigBenBot)
 Created this bot in about 45 minutes to make a funny tik tok. With that being said don't expect a feature rich bot, it is bare bones and minimal to get the job I needed done in order to make people laugh on tiktok. As of right now I'm not sure if I have plans to add any features/capabilities to this bot. Feel free to use it as is or fork it and make changes/add features. Enjoy!
 
 ### Things to note
@@ -22,6 +22,3 @@ Created this bot in about 45 minutes to make a funny tik tok. With that being sa
 - ## **Step 2**: In the project directory rename `.env.example` to just `.env`. Open the file with a text editor and replace the placeholder TOKEN, GUILD_ID, VOICE_CHANNEL_ID, TEXT_CHANNEL_ID(text channel is optional) with your own and save. See [this link](https://support.discord.com/hc/en-us/articles/206346498-Where-can-I-find-my-User-Server-Message-ID-) to learn how to get these id's.
 - ## **Step 3**: Start the bot by navigating in CMD prompt or terminal into the project dir and running `node bot.js` or using a process manager like [PM2](https://www.npmjs.com/package/pm2)
 
-# Tutorial Video
-
-[![](https://res.cloudinary.com/marcomontalbano/image/upload/v1625043402/video_to_markdown/images/youtube--ObtVxV3g4aE-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=ObtVxV3g4aE "Install Video")
